@@ -30,7 +30,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="350" height="250" />
+<img src="[https://animesher.com/orig/0/35/356/3564/animesher.com_reality-computer-girl-356435.gif](https://i.pinimg.com/originals/23/d2/5f/23d25f92483d3ece840f54c65a524b0b.gif)" align="right" width="350" height="250" />
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
