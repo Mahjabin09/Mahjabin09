@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dewan Mahjbain Mahin </h1>
+<h1 align="center">Hi 👋, I'm Dewan Mahjabin Mahin </h1>
 <h2 align="center"> Design-Driven Frontend  Developer | Problem Solver </h2>
 <h3 align="left">
 🎓 Student at United International University </h3>
