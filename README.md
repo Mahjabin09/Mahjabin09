@@ -1,36 +1,22 @@
-<h1 align="center">Hi 👋, I'm Yeamim Hossain Sajid</h1>
-<h2 align="center"> Java Developer | Spring Boot & Microservices Enthusiast | Problem Solver </h2>
+<h1 align="center">Hi 👋, I'm Dewan Mahjbain Mahin </h1>
+<h2 align="center"> Design-Driven Frontend  Developer | Problem Solver </h2>
 <h3 align="left">
 🎓 Student at United International University </h3>
 
-<h3 align="left"> Building scalable, secure applications with Java 8+, Spring Boot, and microservices. Skilled in RESTful APIs, Spring Security, and event-driven systems using Kafka & RabbitMQ. Strong database design and cloud deployment expertise (AWS, Azure, Docker, Kubernetes).</h3>
 
-<h3 align="left"> 📱 Cross-platform mobile development with Flutter</h3>
 
-<h3 align="left">💡 Passionate about innovation and problem-solving (250+ LeetCode problems solved).</h3>
+<h3 align="left">  🎨 I’m a frontend developer who loves crafting sleek and interactive web experiences.  
+When I’m not coding, you’ll probably find me tweaking UI designs or experimenting with new frameworks.  </h3>
+<h3 align="left"> Passionate about innovation and problem-solving.</h3>
 
-<h3 align="left">🚀 Let’s collaborate and build amazing things together!.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YeamimHossainSajid&label=Profile%20views&color=0e75b6&style=flat" alt="YeamimHossainSajid" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahjabin09&label=Profile%20views&color=0e75b6&style=flat" alt="Mahjabin09" /> </p>
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix"><img src="https://github-profile-trophy.vercel.app/?username=YeamimHossainSajid" alt="YeamimHossainSajid" /></a> </p>
 
-<h3 align="left">📫 Connect with me:yeamimhossainsajid@gmail.com</h3>
-<p align="left"></p>
-
-<h3 align="left">Competitive Programming Profiles:</h3>
-<p align="left">
-<a href="https://leetcode.com/u/yeamim_hossain_sajid/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/LeetCode-Profile-yellow.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" height="30"/>
-</a>
-<a href="https://codeforces.com/profile/paradox_71" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/Codeforces-Profile-blue.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces profile" height="30"/>
-</a>
-</p>
-
+<h3 align="left">📫 Connect with me:mahjabinmahin3@gmail.com</h3>
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="[https://animesher.com/orig/0/35/356/3564/animesher.com_reality-computer-girl-356435.gif](https://i.pinimg.com/originals/23/d2/5f/23d25f92483d3ece840f54c65a524b0b.gif)" align="right" width="350" height="250" />
+<img src="https://camo.githubusercontent.com/cd9c55615177ebb8c88b9d71a3fe48bce0b2995ce8e37240e5d276656859fff4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3631343363363764363931386664353638633565316532382f34363133666563372d336130632d346437322d396339302d6361656363656535303166352f73747564696f732e676966" align="right" width="350" height="250" />
 
 <p align="left">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -89,6 +75,6 @@
 </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YeamimHossainSajid&show_icons=true&locale=en&layout=compact" alt="YeamimHossainSajid" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahjabin09&show_icons=true&locale=en&layout=compact" alt="Mahjabin09" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=YeamimHossainSajid&show_icons=true&locale=en" alt="YeamimHossainSajid" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahjabin09&show_icons=true&locale=en" alt="Mahjabin09" /></p>
