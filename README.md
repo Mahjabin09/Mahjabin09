@@ -10,7 +10,7 @@ When I’m not coding, you’ll probably find me tweaking UI designs or experime
 <h3 align="left"> Passionate about innovation and problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahjabin09&label=Profile%20views&color=0e75b6&style=flat" alt="Mahjabin09" /> </p>
-<h3 align="left">📫 Connect with me:mahjabinmahin3@gmail.com</h3>
+<h3 align="left">📫 Connect with me: mahjabinmahin3@gmail.com</h3>
 <h3 align="left">Languages and Tools:</h3>
 
 <img src="https://camo.githubusercontent.com/cd9c55615177ebb8c88b9d71a3fe48bce0b2995ce8e37240e5d276656859fff4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3631343363363764363931386664353638633565316532382f34363133666563372d336130632d346437322d396339302d6361656363656535303166352f73747564696f732e676966" align="right" width="350" height="250" />
