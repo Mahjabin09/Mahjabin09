@@ -44,4 +44,4 @@ When I’m not coding, you’ll probably find me tweaking UI designs or experime
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahjabin09&show_icons=true&locale=en&layout=compact" alt="Mahjabin09" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mahjabin09&show_icons=true&locale=en" alt="Mahjabin09" /></p>  
+
