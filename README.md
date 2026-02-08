@@ -1,12 +1,11 @@
 <h1 align="center">Hey!👋, I'm Dewan Mahjabin Mahin </h1>
-<h2 align="center"> Design-Driven Frontend  Developer | Problem Solver </h2>
+<h2 align="center"> CS student | Problem Solver </h2>
 <h3 align="left">
 🎓 Student at United International University </h3>
 
 
 
-<h3 align="left">  🎨 I’m a frontend developer who loves crafting sleek and interactive web experiences.  
-When I’m not coding, you’ll probably find me tweaking UI designs or experimenting with new frameworks.  </h3>
+<h3 align="left">  🎨 CS student | Blending ML models, frontend engineering, and design to turn ideas into intelligent, seamless digital experiences.  </h3>
 <h3 align="left"> Passionate about innovation and problem-solving.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mahjabin09&label=Profile%20views&color=0e75b6&style=flat" alt="Mahjabin09" /> </p>
